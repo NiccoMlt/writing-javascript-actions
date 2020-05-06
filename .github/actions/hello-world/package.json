@@ -7,7 +7,10 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": {
+    "email": "nicco.mlt@gmail.com",
+    "name": "Niccolò Maltoni"
+  },
   "license": "MIT",
   "module": "commonjs",
   "dependencies": {
